@@ -1,0 +1,27 @@
+Label {
+    -fx-padding: 10px;
+}
+
+.pink {
+    -fx-background-color: #ffd0fe;
+}
+
+.red {
+    -fx-background-color: #ffc3cb;
+}
+
+.yellow {
+    -fx-background-color: #ffefc8;
+}
+
+.green {
+    -fx-background-color: #ceffc6;
+}
+
+.blue {
+    -fx-background-color: #befaff;
+}
+
+.bg-6 {
+    -fx-background-color: #c4c4ff;
+}
