@@ -1,6 +1,3 @@
-//In order to help learn course concepts, I worked on the homework with no one, discussed homework topics and issues
-//with Anjana Chamarthi, and/or consulted related material
-//that can be found at https://www.youtube.com/watch?v=2xCJBwJYn0Q
 
 import javafx.application.Application;
 import javafx.event.Event;
